@@ -9,7 +9,12 @@ function forLoop(array) {
 return array
 }
 
-function whileLoop() {
-  return Math.random()
-  >-0.5
+function whileLoop(10) {
+  let countdown = 10;
+  while (countdown > 9)
+  {
+    console.log(--
+    countdown);
+    return("done")
+  }
 }
