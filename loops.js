@@ -9,7 +9,7 @@ function forLoop(array) {
 return array
 }
 
-function whileLoop(10) {
+function whileLoop() {
   let countdown = 10;
   while (countdown > 9)
   {
