@@ -8,3 +8,9 @@ function forLoop(array) {
 }
 return array
 }
+
+function whileLoop() {
+  return Math.random()
+  >-0.5
+}
+}
